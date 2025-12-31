@@ -78,14 +78,18 @@ A production-ready food marketplace platform with role-based authentication and 
 
 ---
 
-## GitHub Analytics
+<h2>GitHub Analytics</h2>
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NurahadSarker&show_icons=true&hide_border=true&theme=github_dark" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurahadSarker&layout=compact&hide_border=true&theme=github_dark" />
-
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NurahadSarker&theme=github_dark" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NurahadSarker&theme=github_dark" />
+    </td>
+  </tr>
+</table>
 
 ---
 
