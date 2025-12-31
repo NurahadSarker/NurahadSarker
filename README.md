@@ -103,7 +103,7 @@ A production-ready food marketplace platform with role-based authentication and 
 
 ## Contact & Presence
 
-- LinkedIn: **[LinkedIn](https://www.linkedin.com/in/md-nur-ahad-sarker/)**
+- LinkedIn: **[LinkedIn](https://www.linkedin.com/in/nur-ahad/)**
 - Email: **nurahadrobi451@gmail.com**
 
 ---
