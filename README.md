@@ -1,11 +1,11 @@
 <div align="center">
 
-# Md Nurahad Robi
-### MERN Stack Engineer | Frontend-Centric Full-Stack Developer
-
-Building scalable, performant, and user-focused web applications using modern JavaScript technologies.
+<p align="center">
+  <img src="./banner.png" alt="Md Nurahad Robi - MERN Stack Developer" />
+</p>
 
 </div>
+
 
 ---
 
